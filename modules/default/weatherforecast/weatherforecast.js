@@ -11,15 +11,15 @@
 Module.register("weatherforecast", {
 	// Default module config.
 	defaults: {
-		location: "Oslo, Norway",
+		location: "Oslo,Norway",
 		locationID: false,
 		lat: false,
 		lon: false,
-		appid: "",
+		appid: "abcde12345abcde12345abcde12345ab",
 		units: config.units,
 		maxNumberOfDays: 7,
 		showRainAmount: false,
-		updateInterval: 5 * 60 * 1000, // every 10 minutes
+		updateInterval: 10 * 60 * 1000, // every 10 minutes
 		animationSpeed: 1000,
 		timeFormat: config.timeFormat,
 		lang: config.language,
