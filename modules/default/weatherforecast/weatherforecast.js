@@ -11,7 +11,7 @@
 Module.register("weatherforecast", {
 	// Default module config.
 	defaults: {
-		location: false,
+		location: "Oslo, Norway",
 		locationID: false,
 		lat: false,
 		lon: false,
@@ -19,7 +19,7 @@ Module.register("weatherforecast", {
 		units: config.units,
 		maxNumberOfDays: 7,
 		showRainAmount: false,
-		updateInterval: 10 * 60 * 1000, // every 10 minutes
+		updateInterval: 5 * 60 * 1000, // every 10 minutes
 		animationSpeed: 1000,
 		timeFormat: config.timeFormat,
 		lang: config.language,
