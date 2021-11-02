@@ -70,9 +70,10 @@ let config = {
 			module: "weather",
 			position: "top_right",
 			config: {
+			weatherProvider: "openweathermap",
 			type: "current",
-			location: "Oslo,Norway",
-			locationID: "",
+			location: "New York",
+			locationID: "5128581",
 			apiKey: "e37fbef556d8c2d06329d9132939476e"
 			}
 		},
@@ -81,9 +82,10 @@ let config = {
 			position: "top_right",
 			header: "Weather Forecast",
 			config: {
+				weatherProvider: "openweathermap",
 				type: "forecast",
-				location: "Oslo,Norway",
-				locationID: "", //ID from http://bulk.openweathermap.org/sample/city.list.json.gz; unzip the gz file and find your city
+				location: "New York",
+				locationID: "5128581",
 				apiKey: "e37fbef556d8c2d06329d9132939476e"
 			}
 		},
