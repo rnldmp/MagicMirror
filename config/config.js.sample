@@ -57,7 +57,7 @@ let config = {
 				calendars: [
 					{
 						symbol: "calendar-check",
-						url: "webcal://www.calendarlabs.com/ical-calendar/ics/76/US_Holidays.ics"
+						url: "https://cloud.timeedit.net/uia/web/tp/ri606v5y6566Z6QY96Q8n5gXZQ0575Y5Z5Q593Y.ics"
 					}
 				]
 			}
