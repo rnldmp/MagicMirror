@@ -106,7 +106,7 @@ let config = {
 			}
 		},{
 module: 'MMM-Instagram2020',
-position: 'top_left',
+position: 'middle-left',
 header: 'MMM-Instagram2020',
 config: {
   client_id: '191497509824867', // Facebook Instagram App ID
