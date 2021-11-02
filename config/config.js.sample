@@ -61,7 +61,18 @@ let config = {
 					}
 				]
 			}
-		},
+		},{
+module: 'MMM-Instagram2020',
+position: 'bottom-right',
+header: 'Din Feed',
+config: {
+  client_id: '191497509824867', // Facebook Instagram App ID
+  client_secret: '785cd3a16afd1514ff500cb1060b2a8b', // Facebook Instagram App Secret
+  redirect_uri: 'https://localhost/', // Facebook Instagram App redirect_uri
+  auth_code: '', // Temporary authorisation code as part of the Facebook Instagram Authorisation Process
+  animationSpeed: 1000,
+  updateInterval: 30000,
+}},
 		{
 			module: "compliments",
 			position: "lower_third"
@@ -104,18 +115,7 @@ let config = {
 				broadcastNewsFeeds: true,
 				broadcastNewsUpdates: true
 			}
-		},{
-module: 'MMM-Instagram2020',
-position: 'middle-left',
-header: 'MMM-Instagram2020',
-config: {
-  client_id: '191497509824867', // Facebook Instagram App ID
-  client_secret: '785cd3a16afd1514ff500cb1060b2a8b', // Facebook Instagram App Secret
-  redirect_uri: 'https://localhost/', // Facebook Instagram App redirect_uri
-  auth_code: '', // Temporary authorisation code as part of the Facebook Instagram Authorisation Process
-  animationSpeed: 1000,
-  updateInterval: 30000,
-}}
+		}
 	]
 };
 
