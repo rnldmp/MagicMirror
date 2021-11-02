@@ -11,11 +11,11 @@
 Module.register("weatherforecast", {
 	// Default module config.
 	defaults: {
-		location: "Oslo,Norway",
+		location: false,
 		locationID: false,
 		lat: false,
 		lon: false,
-		appid: "abcde12345abcde12345abcde12345ab",
+		appid: "",
 		units: config.units,
 		maxNumberOfDays: 7,
 		showRainAmount: false,
