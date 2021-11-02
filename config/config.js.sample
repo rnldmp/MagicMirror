@@ -72,8 +72,8 @@ let config = {
 			config: {
 			weatherProvider: "openweathermap",
 			type: "current",
-			location: "New York",
-			locationID: "5128581",
+			location: "Oslo",
+			locationID: "3143244",
 			apiKey: "e37fbef556d8c2d06329d9132939476e"
 			}
 		},
@@ -84,8 +84,8 @@ let config = {
 			config: {
 				weatherProvider: "openweathermap",
 				type: "forecast",
-				location: "New York",
-				locationID: "5128581",
+				location: "Oslo",
+				locationID: "3143244",
 				apiKey: "e37fbef556d8c2d06329d9132939476e"
 			}
 		},
