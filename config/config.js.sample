@@ -68,7 +68,7 @@ let config = {
 			config: {
 			client_id: '191497509824867', // Facebook Instagram App ID
 			client_secret: 'b06612c6c72e357b5d443161a687e980', // Facebook Instagram App Secret
-			redirect_uri: 'https://localhost/auth', // Facebook Instagram App redirect_uri
+			redirect_uri: 'https://localhost/', // Facebook Instagram App redirect_uri
 			auth_code: '', // Temporary authorisation code as part of the Facebook Instagram Authorisation Process
 			animationSpeed: 1000,
 			updateInterval: 30000,

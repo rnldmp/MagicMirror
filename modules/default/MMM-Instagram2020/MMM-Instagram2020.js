@@ -12,7 +12,7 @@ Module.register("MMM-Instagram2020", {
 		lang: "en-us",
 		client_id: "191497509824867", // Facebook Instagram App ID
 		client_secret: "b06612c6c72e357b5d443161a687e980", // Facebook Instagram App Secret
-		redirect_uri: "https://localhostauth/", // Facebook Instagram App redirect_uri
+		redirect_uri: "https://localhost/", // Facebook Instagram App redirect_uri
 		auth_code: "",
 		access_token: "", //
 		animationSpeed: 1000, //1 second
