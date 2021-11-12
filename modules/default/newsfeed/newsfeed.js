@@ -10,7 +10,7 @@ Module.register("newsfeed", {
 		feeds: [
 			{
 				title: "Fædrelandsvennen",
-				url: "https://www.vg.no/rss/feed",
+				url: "https://www.fvn.no/rss/",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],

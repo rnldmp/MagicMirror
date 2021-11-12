@@ -96,7 +96,7 @@ let config = {
 				feeds: [
 					{
 						title: "Fædrelandsvennen",
-						url: "https://www.vg.no/rss/feed"
+						url: "https://www.fvn.no/rss/"
 					}
 				],
 				showSourceTitle: true,
