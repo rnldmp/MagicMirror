@@ -9,8 +9,8 @@ Module.register("newsfeed", {
 	defaults: {
 		feeds: [
 			{
-				title: "New York Times",
-				url: "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+				title: "Fædrelandsvennen",
+				url: "https://www.fvn.no/rss/",
 				encoding: "UTF-8" //ISO-8859-1
 			}
 		],
