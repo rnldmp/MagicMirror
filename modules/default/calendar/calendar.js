@@ -9,7 +9,7 @@
 Module.register("calendar", {
 	// Define module defaults
 	defaults: {
-		maximumEntries: 10, // Total Maximum Entries
+		maximumEntries: 5, // Total Maximum Entries
 		maximumNumberOfDays: 365,
 		limitDays: 0, // Limit the number of days shown, 0 = no limit
 		displaySymbol: true,
@@ -17,7 +17,7 @@ Module.register("calendar", {
 		showLocation: false,
 		displayRepeatingCountTitle: false,
 		defaultRepeatingCountTitle: "",
-		maxTitleLength: 25,
+		maxTitleLength: 15,
 		maxLocationTitleLength: 25,
 		wrapEvents: false, // wrap events to multiple lines breaking at maxTitleLength
 		wrapLocationEvents: false,
