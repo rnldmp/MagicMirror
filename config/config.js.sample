@@ -105,6 +105,19 @@ let config = {
 				broadcastNewsUpdates: true
 			}
 		},
+
+		{
+			module: "MMM-Canvas",
+			position: "top_bar",
+			config: {
+				accessKey: "10742~HT8iGgPa0i99W4NjIjcXZAGkjcef0bXbxMpFY5k6r0FfbNEjuqoqXqGO6bcB6RpL",
+				colors: ["blue", "red",],
+				courses: ["9462","9471", "9472",],
+				urlbase: "uia.instructure.com",
+				assignMaxLen: 35,
+				assignToDisplay: 3,
+  			}
+		},
 	]
 };
 
