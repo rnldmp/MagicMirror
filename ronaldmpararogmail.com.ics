@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ronaldmpararo@gmail.com
+X-WR-TIMEZONE:Europe/Oslo
+BEGIN:VEVENT
+DTSTART:20210903T090000Z
+DTEND:20210903T093000Z
+DTSTAMP:20211029T090937Z
+ORGANIZER;CN=Lise Bardoff:mailto:lise.bardoff@kristiansand.kommune.no
+UID:040000008200E00074C5B7101A82E00800000000E04C12C10DA0D701000000000000000
+ 01000000001098A8AE5F0394FB3D0EF00452CD2AD
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=ronald
+ mpararo@gmail.com;X-NUM-GUESTS=0:mailto:ronaldmpararo@gmail.com
+CREATED:20210902T131953Z
+DESCRIPTION:\n_____________________________________________________________
+ ___________________\nMicrosoft Teams-møte\nBli med fra datamaskin eller mob
+ ilapp\nKlikk her for å delta i møtet<https://teams.microsoft.com/l/meetup-j
+ oin/19%3ameeting_Mjk3YTY2NWMtNjg4Yy00YmM3LThiZjAtNTlmZTdlNzMwNWM5%40thread.
+ v2/0?context=%7b%22Tid%22%3a%22b04c18ce-fe49-4383-8235-47f395f07474%22%2c%2
+ 2Oid%22%3a%220062cc7b-652f-4a61-9fca-f922eca50eff%22%7d>\nFinn ut mer<https
+ ://aka.ms/JoinTeamsMeeting> | Møtealternativer<https://teams.microsoft.com/
+ meetingOptions/?organizerId=0062cc7b-652f-4a61-9fca-f922eca50eff&tenantId=b
+ 04c18ce-fe49-4383-8235-47f395f07474&threadId=19_meeting_Mjk3YTY2NWMtNjg4Yy0
+ 0YmM3LThiZjAtNTlmZTdlNzMwNWM5@thread.v2&messageId=0&language=nb-NO>\n______
+ __________________________________________________________________________\
+ n\n
+LAST-MODIFIED:20210902T132144Z
+LOCATION:Microsoft Teams-møte
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:UIA Praksis - KartAI
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-OWNERAPPTID:-891119643
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-LOCATIONS:[ { "DisplayName" : "Microsoft Teams-møte"\, "Locatio
+ nAnnotation" : ""\, "LocationSource" : 0\, "Unresolved" : false\, "Location
+ Uri" : "" } ]
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:Lise.Bardoff@kristiansand.kommun
+ e.no\;gruu\;opaque=app:conf:focus:id:teams:2:0!19:meeting_Mjk3YTY2NWMtNjg4Y
+ y00YmM3LThiZjAtNTlmZTdlNzMwNWM5-thread.v2!0062cc7b652f4a619fcaf922eca50eff!
+ b04c18cefe494383823547f395f07474
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://api.scheduler.teams.microsof
+ t.com/teams/b04c18ce-fe49-4383-8235-47f395f07474/0062cc7b-652f-4a61-9fca-f9
+ 22eca50eff/19_meeting_Mjk3YTY2NWMtNjg4Yy00YmM3LThiZjAtNTlmZTdlNzMwNWM5@thre
+ ad.v2/0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_Mjk3YTY2NWMtNjg4Yy00YmM3LThiZjAtNTlmZTdlNzMwNWM5%40thread.v2/0
+ ?context=%7b%22Tid%22%3a%22b04c18ce-fe49-4383-8235-47f395f07474%22%2c%22Oid
+ %22%3a%220062cc7b-652f-4a61-9fca-f922eca50eff%22%7d
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_Mjk3YTY2NWMtNjg4Yy00YmM
+ 3LThiZjAtNTlmZTdlNzMwNWM5@thread.v2"\,"private":true\,"type":0\,"mid":0\,"r
+ id":0\,"uid":null}
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20210908T100000Z
+DTEND:20210908T110000Z
+DTSTAMP:20211029T090937Z
+UID:1llfr4iav197rqkppi3fe8039d@google.com
+CREATED:20210902T135457Z
+DESCRIPTION:
+LAST-MODIFIED:20210902T135457Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:ID på Politistasjonen
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20211017T150000Z
+DTEND:20211017T160000Z
+DTSTAMP:20211029T090937Z
+UID:74rjcp9mcdhjab9p6ks3gb9k6ph6abb16gsm2b9k60s3ge34ckq6aopl6c@google.com
+CREATED:20211007T125305Z
+DESCRIPTION:
+LAST-MODIFIED:20211007T125305Z
+LOCATION:
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Personalmøte på Studenten
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
